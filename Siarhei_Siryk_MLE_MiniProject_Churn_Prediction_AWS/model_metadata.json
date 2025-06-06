@@ -1,0 +1,10 @@
+{
+  "model_type": "xgboost",
+  "version": "2.1.4",
+  "training_samples": 24606,
+  "test_samples": 6152,
+  "accuracy": 0.9549739921976593,
+  "feature_count": 12,
+  "target_column": "retained",
+  "training_date": "2025-06-06T03:00:24.832857"
+}
